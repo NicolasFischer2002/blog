@@ -1,0 +1,35 @@
+.menu {
+
+    text-align: center;
+
+    list-style: none;
+
+
+}
+
+.menu__li {
+
+    display: inline-block;
+
+    padding: 1rem;
+    
+    font-size: 1.1rem;
+
+
+}
+
+.menu__li-rodape {
+
+    display: inline-block;
+
+    padding: 1rem;
+    
+    font-size: 1.1rem;
+
+}
+
+.a__branco {
+
+    color: white;
+
+}
