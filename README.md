@@ -1,2 +1,2 @@
 # blog
-Meu segundo site
+Meu segundo projeto
