@@ -1,0 +1,43 @@
+header {
+
+    background-color:#0B4C5F;
+    
+
+}
+
+.header__logotipo {
+
+    padding-top: 0.5rem;
+    padding-bottom: 1rem;
+
+    text-align: center;
+    
+
+}
+
+@media screen and (min-width:1024px) {
+
+    .header {
+
+        flex-direction: row;
+        justify-content: space-between;
+
+        border:none;
+
+    }
+
+}
+
+@media screen and (min-width:1024px){
+
+    .header{
+
+        background-image: url(../img/natureza3.jpg);
+        background-size: cover;
+
+        
+
+        padding-top: 14.10rem;
+    }
+}
+
